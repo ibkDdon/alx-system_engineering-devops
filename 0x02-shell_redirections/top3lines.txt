@@ -1,4 +1,0 @@
-==> README.md <==
-# Read me for shell redirection
-
-Some text
